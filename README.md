@@ -13,9 +13,9 @@ Online Retail II Dataset (UCI)
 │         MySQL Database          │
 │                                 │
 │  dim_date    dim_product        │
-│      ↘           ↙             │
+│      ↘           ↙              │
 │       fact_sales                │
-│      ↗           ↘             │
+│      ↗           ↘              │
 │  dim_customer  dim_invoice      │
 └─────────────────────────────────┘
 ```
